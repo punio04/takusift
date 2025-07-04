@@ -1,3 +1,7 @@
+html {
+  scroll-behavior: smooth;
+}
+
 .app[data-v-d12de11f] {
   align-items: center;
   flex-direction: column;
